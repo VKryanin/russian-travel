@@ -1,8 +1,27 @@
-@media screen and (max-width:520px) {
+/* .place__wrapper {
+    width: 484px;
+    padding: 0;
+    margin: 0;
+}
+
+@media screen and (max-width:1024px) {
     .place__wrapper {
-        /* margin: 0 auto; */
-        width: 100%;
+        width: 456px;
         padding: 0;
         margin: 0;
     }
-}
+} */
+
+@media screen and (max-width:768px) {
+    .place__wrapper {
+        width: 352px;
+        /* margin: 0 auto; */
+    }
+} 
+
+@media screen and (max-width:320px) {
+    .place__wrapper {
+        width: 100%;
+        /* margin: 0 auto; */
+    }
+} 
