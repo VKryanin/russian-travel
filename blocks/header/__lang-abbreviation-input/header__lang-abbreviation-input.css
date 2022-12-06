@@ -1,0 +1,20 @@
+.header__lang-abbreviation-input {
+    display: none;
+    /* display: inline-block; */
+    border-right: none;
+    cursor: pointer;
+    user-select: none;
+}
+
+
+.header__lang-abbreviation-input:checked+label {
+    text-decoration: underline;
+}
+
+@media screen and (max-width:320px) {
+    .header__lang-abbreviation-input {
+        margin: 16px 16px 0;
+        font-size: 18px;
+        line-height: 20px;
+    }
+}

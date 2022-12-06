@@ -1,0 +1,8 @@
+@media screen and (max-width:520px) {
+    .place__wrapper {
+        /* margin: 0 auto; */
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+}

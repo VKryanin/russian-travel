@@ -1,0 +1,9 @@
+.place__link {
+    padding: 0;
+    margin: 12px 0 0;
+    font-family: 'Inter-regular';
+    font-size: 1.1rem;
+    text-decoration: underline;
+    line-height: 1.22;
+    color: #fff;
+}

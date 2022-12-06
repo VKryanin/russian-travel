@@ -1,0 +1,17 @@
+.lead__title {
+    width: 720px;
+    font-size: 6rem;
+    line-height: 1.04;
+    font-family: 'Inter-black';
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+@media screen and (max-width:320px) {
+    .lead__title {
+        width: 288px;
+        font-size: 2.5rem;
+        line-height: 44px;
+    }
+}
