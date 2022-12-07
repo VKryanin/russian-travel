@@ -10,7 +10,7 @@
   opacity: 0.5;
 }
 
-@media screen and (max-width:320px) {
+@media screen and (max-width:704px) {
   .footer__copyright {
     margin-top: 48px;
     width: 186px;

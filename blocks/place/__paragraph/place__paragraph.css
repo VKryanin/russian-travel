@@ -1,6 +1,7 @@
 .place__paragraph {
   grid-column: 2;
   margin: 0 0 26px 0;
+  font-family: 'Inter';
   font-weight: normal;
   font-size: 18px;
   line-height: 163%;
