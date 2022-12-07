@@ -9,9 +9,11 @@
     justify-content: center;
     padding: 0;
     margin: 0;
-    /* border: 1px solid red; */
 }
 
+.cover__link:hover {
+    opacity: 0.5;
+}
 
 @media screen and (max-width:1024px) {
     .cover__link {
@@ -27,6 +29,6 @@
 @media screen and (max-width:320px) {
     .cover__link {
         min-height: 200px;
-        /* border: 1px solid blue; */
+        
     }
 }
