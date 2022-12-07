@@ -5,7 +5,11 @@
   font-size: 18px;
   line-height: 22px;
   color: #fff;
+<<<<<<< HEAD
   text-decoration-line: underline;
+=======
+  opacity: 1;
+>>>>>>> main
   transition: opacity 0.5s ease-in-out;
 }
 

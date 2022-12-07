@@ -2,7 +2,13 @@
   margin: 0 0 12px 0;
   font-weight: normal;
   font-family: 'Inter';
+<<<<<<< HEAD
   font-size: 12px;
+=======
+  font-weight: 400;
+  font-size: 12px;
+  letter-spacing: 2px;
+>>>>>>> main
   line-height: 12px;
   letter-spacing: 0.2em;
   color: #aaa;
