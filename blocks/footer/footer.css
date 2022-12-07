@@ -1,25 +1,26 @@
 .footer {
-    max-width: 1184px;
-    margin: 92px auto 24px;
-    font-family: 'Inter-regular';
+  max-width: 1184px;
+  margin: 92px auto 24px;
+  font-family: 'Inter';
+  font-weight: 400;
 }
 
 @media screen and (max-width:768px) {
-    .footer {
-        margin: 88px auto 24px;
-        max-width: 720px;
-    }
+  .footer {
+    margin: 88px auto 24px;
+    max-width: 720px;
+  }
 }
 
 @media screen and (max-width:1024px) {
-    .footer {
-        max-width: 928px;
-    }
+  .footer {
+    max-width: 928px;
+  }
 }
 
 @media screen and (max-width:320px) {
-    .footer {
-        max-width: 186px;
-        margin: 64px 118px 24px 16px;
-    }
+  .footer {
+    max-width: 186px;
+    margin: 64px 118px 24px 16px;
+  }
 }

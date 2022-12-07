@@ -1,16 +1,14 @@
 .place__website {
-    grid-row: 1;
-    display: flex;
-    flex-direction: column;
-    align-self: flex-end;
-    width: 352px;
-    height: 46px;
+  grid-row: 1;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-end;
+  width: 352px;
 }
 
-
 @media screen and (max-width:320px) {
-    .place__website {
-        width: 288px;
-        margin: 0px 16px;
-    }
+  .place__website {
+    width: 288px;
+    margin: 0px 16px;
+  }
 }

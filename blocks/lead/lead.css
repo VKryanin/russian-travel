@@ -1,30 +1,30 @@
 .lead {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    max-width: 984px;
-    margin: 0 auto;
-    padding-top: 56px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 984px;
+  margin: 0 auto;
+  padding-top: 56px;
 }
 
 @media screen and (max-width:1024px) {
-    .lead {
-        padding-top: 48px;
-        width: 928px;
-        margin: 0 auto;
-    }
+  .lead {
+    padding-top: 48px;
+    width: 928px;
+    margin: 0 auto;
+  }
 }
 
 @media screen and (max-width:768px) {
-    .lead {
-        width: 768px;
-        margin: 0 auto;
-    }
+  .lead {
+    width: 768px;
+    margin: 0 auto;
+  }
 }
 
 @media screen and (max-width:320px) {
-    .lead {
-        width: 320px;
-        margin: 0 auto;
-    }
+  .lead {
+    width: 320px;
+    margin: 0 auto;
+  }
 }

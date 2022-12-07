@@ -1,19 +1,20 @@
 .footer__copyright {
-    color: #fff;
-    text-decoration: none;
-    opacity: 1;
-    transition: opacity 0.3s ease-in-out;
+  color: #fff;
+  font-size: 14px;
+  text-decoration: none;
+  opacity: 1;
+  transition: opacity 0.3s ease-in-out;
 }
 
 .footer__copyright:hover {
-    opacity: 0.5;
+  opacity: 0.5;
 }
 
 @media screen and (max-width:320px) {
-    .footer__copyright {
-        margin-top: 48px;
-        width: 186px;
-        font-size: 14px;
-        line-height: 14px;
-    }
+  .footer__copyright {
+    margin-top: 48px;
+    width: 186px;
+    font-size: 14px;
+    line-height: 14px;
+  }
 }

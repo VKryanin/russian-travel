@@ -1,21 +1,21 @@
 .cover__overlay {
-    width: 100%;
-    height: 100%;
-    position: absolute;
-    top: 0;
-    left: 0;
-    background: #2A2C2F;
-    opacity: 0.3;
-    transition: opacity 0.5s ease-in-out;
-    z-index: 1;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #2A2C2F;
+  opacity: 0.3;
+  transition: opacity 0.5s ease-in-out;
+  z-index: 1;
 }
 
-.cover__overlay:hover {
-    opacity: 0.8;
+.cover:hover .cover__overlay {
+  opacity: 0.8;
 }
 
 @media screen and (max-width:320px) {
-    .cover__overlay {
-        height: 200px;
-    }
+  .cover__overlay {
+    height: 200px;
+  }
 }
