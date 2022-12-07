@@ -1,0 +1,276 @@
+[33mcommit 7f1984e2ed0d607ccda4b8ba78cb5781b9b6f12f[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Vitaly Kryanin <krianinvv@internet.ru>
+Date:   Wed Dec 7 20:47:37 2022 +0300
+
+    version4
+
+[33mcommit 74279a5792227e3188ca334164362386301d5eb1[m
+Author: Vitaly Kryanin <krianinvv@internet.ru>
+Date:   Wed Dec 7 19:36:14 2022 +0300
+
+    version3
+
+[33mcommit efc04bf428cd061fe3a7fb291bb305a0dd9609e6[m
+Author: Vitaly Kryanin <krianinvv@internet.ru>
+Date:   Wed Dec 7 18:52:03 2022 +0300
+
+    v2
+
+[33mcommit dc04efbeb7994b277ba3071299a186d565f5af68[m
+Author: Vitaly Kryanin <krianinvv@internet.ru>
+Date:   Wed Dec 7 18:28:19 2022 +0300
+
+    fix 1 version
+
+[33mcommit d264aad7b529f50c5117776df0e2a040f04a348f[m
+Author: Vitaly Kryanin <krianinvv@internet.ru>
+Date:   Wed Dec 7 14:59:12 2022 +0300
+
+    fix corev__overlay
+
+[33mcommit 57ca22e784c3f3edd555f009aa6fd757f486ba2e[m
+Author: Vitaly Kryanin <krianinvv@internet.ru>
+Date:   Wed Dec 7 14:51:00 2022 +0300
+
+    validator
+
+[33mcommit 61f8a59e5225b246026ceb1840e515ae9a626169[m
+Author: Vitaly Kryanin <krianinvv@internet.ru>
+Date:   Wed Dec 7 14:42:24 2022 +0300
+
+    fix image
+
+[33mcommit 36e6155d762d6a4f98846d8bfe55a0278996b5fa[m
+Author: Vitaly Kryanin <krianinvv@internet.ru>
+Date:   Wed Dec 7 14:37:07 2022 +0300
+
+    jpg
+
+[33mcommit e46759413cbcd4381140bd5ca731a75c36eff066[m
+Author: Vitaly Kryanin <krianinvv@internet.ru>
+Date:   Wed Dec 7 13:57:52 2022 +0300
+
+    readme
+
+[33mcommit 4da7f8a99b93c78934f1fef8ba433d5dfe2027fd[m
+Author: Vitaly Kryanin <krianinvv@internet.ru>
+Date:   Wed Dec 7 13:53:40 2022 +0300
+
+    da
+
+[33mcommit 194f77d57b441751f88f57ec479e9cf778c6d916[m
+Author: Vitaly Kryanin <krianinvv@internet.ru>
+Date:   Wed Dec 7 13:49:37 2022 +0300
+
+    aaaaaaaaaaa
+
+[33mcommit 08247128d7451489d1bef31b01569cabe0bd66a6[m[33m ([m[1;31morigin/gh-pages[m[33m)[m
+Merge: 4ae2fd2 ee94bc0
+Author: Vitaly Kryanin <krianinvv@internet.ru>
+Date:   Wed Dec 7 13:23:52 2022 +0300
+
+    Merge branch 'main' into gh-pages
+
+[33mcommit 4ae2fd24b9f1f6d6bd9851fa4c8bfb0ff3a5290b[m
+Author: Vitaly Kryanin <krianinvv@internet.ru>
+Date:   Wed Dec 7 13:22:40 2022 +0300
+
+    test
+
+[33mcommit ee94bc0aa4a762957970500bddc81df85a94ce92[m
+Merge: 30972af 28043ba
+Author: Vitaly Kryanin <krianinvv@internet.ru>
+Date:   Wed Dec 7 13:15:55 2022 +0300
+
+    Merge remote-tracking branch 'refs/remotes/origin/main'
+
+[33mcommit 30972af1ff0abc4c776516aef3e7c037521bccd4[m
+Author: Vitaly Kryanin <krianinvv@internet.ru>
+Date:   Wed Dec 7 13:12:41 2022 +0300
+
+    edit readme
+
+[33mcommit 788c8a0868d667abf210fd9165999db455746e19[m
+Author: Vitaly Kryanin <krianinvv@internet.ru>
+Date:   Wed Dec 7 12:22:19 2022 +0300
+
+    edit readme
+
+[33mcommit 28043bad144d6475a7f7695453797d1cfc5509b2[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.github.com>
+Date:   Wed Dec 7 11:56:51 2022 +0300
+
+    Delete CNAME
+
+[33mcommit ef3389042e12b5889e4d67a59101596df7c8d3f4[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.github.com>
+Date:   Wed Dec 7 11:48:10 2022 +0300
+
+    Update CNAME
+
+[33mcommit 07230386095ef83bce56cdcd1f8b2272e7a29df3[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.github.com>
+Date:   Wed Dec 7 11:44:06 2022 +0300
+
+    Create CNAME
+
+[33mcommit 97da82f2de4374940be4c1cd17aff7e22226f974[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.github.com>
+Date:   Wed Dec 7 11:30:05 2022 +0300
+
+    Delete .github/workflows directory
+
+[33mcommit 8e2f01bf5f77a77904cdbe4ba50fba0b9d68a4ce[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.github.com>
+Date:   Wed Dec 7 11:21:53 2022 +0300
+
+    df
+
+[33mcommit 0fa0a92676af68edd0a06c71d6ddeff51c41e5c4[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.github.com>
+Date:   Wed Dec 7 11:13:35 2022 +0300
+
+    Delete CNAME
+
+[33mcommit 64716c4daf76938b1e994989684f5675796e085a[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.github.com>
+Date:   Wed Dec 7 11:13:13 2022 +0300
+
+    Create CNAME
+
+[33mcommit 513170eb37483f4d238d8289bfbbaa365576b146[m
+Author: Vitaly Kryanin <krianinvv@internet.ru>
+Date:   Wed Dec 7 11:08:10 2022 +0300
+
+    edit readme
+
+[33mcommit c6aaeafb182ad52cc063ed09764e6c6d86c45547[m
+Merge: 7172ce6 1d627c1
+Author: Vitaly Kryanin <krianinvv@internet.ru>
+Date:   Wed Dec 7 11:00:04 2022 +0300
+
+    Merge branch 'main' of https://github.com/VKryanin/russian-travel
+
+[33mcommit 7172ce61aae64c1fac9ace7b285f8f1e1c0cab8a[m
+Author: Vitaly Kryanin <krianinvv@internet.ru>
+Date:   Wed Dec 7 10:59:04 2022 +0300
+
+    fix opacity
+
+[33mcommit 1d627c19f1132c7cf5a711bf5973508dbad8e64a[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.github.com>
+Date:   Wed Dec 7 10:54:02 2022 +0300
+
+    Delete CNAME
+
+[33mcommit 207f9641e40d5e7b34cd391003fd097a396ff73f[m
+Merge: 48b3d17 21b2082
+Author: Vitaly Kryanin <krianinvv@internet.ru>
+Date:   Wed Dec 7 10:49:22 2022 +0300
+
+    Merge branch 'main' of https://github.com/VKryanin/russian-travel
+
+[33mcommit 48b3d170019af745e8412ff967b6d541ed7b97ab[m
+Author: Vitaly Kryanin <krianinvv@internet.ru>
+Date:   Wed Dec 7 10:48:43 2022 +0300
+
+    add opacity
+
+[33mcommit 21b208299d87938791bd0867d5c25b016d9ef391[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.github.com>
+Date:   Tue Dec 6 19:34:17 2022 +0300
+
+    Update CNAME
+
+[33mcommit debc9c5436d4a1738c4ee46560f49b053144b79c[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.github.com>
+Date:   Tue Dec 6 19:28:19 2022 +0300
+
+    Update CNAME
+
+[33mcommit 5f6faf533ef72ba9a7403e3062b8bc6810f108f6[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.github.com>
+Date:   Tue Dec 6 19:24:39 2022 +0300
+
+    Update CNAME
+
+[33mcommit 6857e6c0d2d9598734331d7b3b93357a18353feb[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.github.com>
+Date:   Tue Dec 6 19:23:43 2022 +0300
+
+    Update CNAME
+
+[33mcommit 82aa710fc86b5c6614fe6c601dffd4598a85ab8a[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.github.com>
+Date:   Tue Dec 6 19:13:50 2022 +0300
+
+    Create CNAME
+
+[33mcommit 97a8af86320db251821ff22c54b6ab08fe53751b[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.github.com>
+Date:   Tue Dec 6 19:13:45 2022 +0300
+
+    Delete CNAME
+
+[33mcommit 52fb1dd5a07b9b9fd0b5a747b94e05910ac0fc59[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.github.com>
+Date:   Tue Dec 6 19:13:30 2022 +0300
+
+    Create CNAME
+
+[33mcommit 820802355af1699be8379052fc3f890e2332475c[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.github.com>
+Date:   Tue Dec 6 19:13:25 2022 +0300
+
+    Delete CNAME
+
+[33mcommit cf035864fdcf418578a86f1cb83db5e0407b061b[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.github.com>
+Date:   Tue Dec 6 19:13:00 2022 +0300
+
+    Update CNAME
+
+[33mcommit b3ca3938459d95da209176faab47ae59c3c1ba2f[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.github.com>
+Date:   Tue Dec 6 19:11:00 2022 +0300
+
+    Update CNAME
+
+[33mcommit 283614d006bc89c4c5a9faa36ea243198b764c08[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.github.com>
+Date:   Tue Dec 6 19:09:58 2022 +0300
+
+    Create CNAME
+
+[33mcommit a1de0de251bc285a4b182bd238d9670ec7385f34[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.github.com>
+Date:   Tue Dec 6 19:09:54 2022 +0300
+
+    Delete CNAME
+
+[33mcommit 1ab3d814eec5a515af899ec0ca826e37bc205931[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.github.com>
+Date:   Tue Dec 6 19:09:17 2022 +0300
+
+    Update CNAME
+
+[33mcommit 2c3911fc1e869820cf1c46652858bcd05e534178[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.github.com>
+Date:   Tue Dec 6 19:09:01 2022 +0300
+
+    Update CNAME
+
+[33mcommit 9e65035bb2be74cf76517f416d6ba7e590090f2a[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.github.com>
+Date:   Tue Dec 6 19:08:43 2022 +0300
+
+    Update CNAME
+
+[33mcommit c434891b9cfeabc931722b79c6279fb0d8993b55[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.github.com>
+Date:   Tue Dec 6 19:08:17 2022 +0300
+
+    Update CNAME
+
+[33mcommit dbd49c590e8905481e6e50e17dea86822ca3d00f[m
+Author: Vitaly Kryanin <92264488+VKryanin@users.noreply.g
