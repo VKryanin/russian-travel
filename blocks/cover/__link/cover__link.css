@@ -11,9 +11,6 @@
     margin: 0;
 }
 
-.cover__link:hover {
-    opacity: 0.5;
-}
 
 @media screen and (max-width:1024px) {
     .cover__link {
