@@ -2,10 +2,17 @@
   display: flex;
   justify-content: space-between;
   flex-direction: row;
-  width: 100%;
+  width: calc(100% - 48px*2);
+  margin: 0 auto;
 }
 
-@media screen and (max-width:704px) {
+@media screen and (max-width:768px) {
+  .footer__links-menu {
+    width: calc(100% - 48px);
+  }
+}
+
+@media screen and (max-width:752px) {
   .footer__links-menu {
     flex-direction: column;
     align-items: flex-start;
