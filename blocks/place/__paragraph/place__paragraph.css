@@ -26,7 +26,6 @@
 
 @media screen and (max-width:768px) {
   .place__paragraph {
-    width: 352px;
     font-size: 16px;
     line-height: 26px;
     padding-top: 25px;
@@ -40,8 +39,6 @@
 @media screen and (max-width:320px) {
   .place__paragraph {
     padding-top: 25px;
-    width: 288px;
-    margin: 0 auto;
   }
 
   .place__paragraph:first-of-type {
