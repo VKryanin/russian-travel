@@ -3,7 +3,6 @@
   height: 52px;
   background-image: url(../../../images/__logo.svg);
   background-size: cover;
-  margin: 28px 0 0 48px;
   opacity: 1;
   transition: opacity 0.5s ease-in-out;
 }

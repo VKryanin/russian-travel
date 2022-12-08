@@ -1,4 +1,8 @@
 .root {
   color: #fff;
-  background: #2A2C2F;
+  background: #2a2c2f;
+  max-width: 1280px;
+  min-width: 320px;
+  margin: 0 auto;
+  text-rendering: optimizeLegibility;
 }

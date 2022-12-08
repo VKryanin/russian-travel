@@ -1,28 +1,34 @@
 .intro {
-  margin: 0 442px 0 148px;
-  max-width: 690px;
-  padding: 92px 0 0;
+  padding: 92px 0;
+  color: #fff;
+  display: flex;
+  justify-content: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
   max-width: 984px;
+  margin: 0 auto;
 }
 
-@media screen and (max-width:1024px) {
-  .intro {
-    margin: 0 286px 0 48px;
+@media screen and (max-width: 1025px){
+  .intro{
+    max-width: 928px;
   }
 }
 
-@media screen and (max-width:768px) {
+@media screen and (max-width: 948px){
+  .intro{
+    padding: 88px 24px;
+  }
+}
+
+@media screen and (max-width: 769px) {
   .intro {
     max-width: 720px;
-    margin: 0 24px;
-    padding-top: 88px;
   }
 }
 
-@media screen and (max-width:320px) {
+@media screen and (max-width: 720px) {
   .intro {
-    max-width: 288px;
-    margin: 0 16px;
-    padding-top: 64px;
+    padding: 64px 16px;
   }
 }
