@@ -1,11 +1,11 @@
 .page {
-    text-rendering: optimizeLegibility;
-    padding: 0;
-    margin: 0;
-    color: #fff;
-    background-color: #2A2C2F;
-    font-family: "Inter";
-    max-width: 1280px;
-    min-width: 320px;
-    box-sizing: border-box;
+  text-rendering: optimizeLegibility;
+  padding: 0;
+  margin: 0;
+  color: #fff;
+  background-color: #2A2C2F;
+  font-family: "Inter";
+  max-width: 1280px;
+  min-width: 320px;
+  box-sizing: border-box;
 }

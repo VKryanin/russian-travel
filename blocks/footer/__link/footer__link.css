@@ -2,12 +2,11 @@
   color: #fff;
   text-decoration: none;
   cursor: pointer;
-  opacity: 1;
   transition: opacity 0.3s ease-in-out;
 }
 
 .footer__link:hover {
-  opacity: 0.5;
+  opacity: 0.8;
 }
 
 @media screen and (max-width:320px) {

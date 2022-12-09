@@ -1,7 +1,7 @@
 .footer {
   max-width: calc(100% - 48px * 2);
   margin: 92px auto 24px;
-  font-family: 'Inter';
+  font-family: 'Inter', sans-serif;
   font-weight: 400;
 }
 

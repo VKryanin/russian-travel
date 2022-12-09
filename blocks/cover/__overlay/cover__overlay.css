@@ -10,12 +10,8 @@
   z-index: 1;
 }
 
-.cover:hover .cover__overlay {
-  opacity: 0.5;
-}
-
 @media screen and (max-width:320px) {
   .cover__overlay {
-    height: 200px;
+    min-height: 200px;
   }
 }

@@ -1,6 +1,7 @@
 .header__logo {
   width: 176px;
   height: 52px;
+  margin: 0;
   background-image: url(../../../images/__logo.svg);
   background-size: cover;
   opacity: 1;
@@ -15,7 +16,6 @@
   .header__logo {
     width: 142px;
     height: 42px;
-    margin: 28px 0 0 24px;
   }
 }
 
@@ -23,6 +23,5 @@
   .header__logo {
     width: 142px;
     height: 42px;
-    margin: 16px 0 0 16px;
   }
 }
