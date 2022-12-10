@@ -4,7 +4,6 @@
   margin: 0;
   background-image: url(../../../images/__logo.svg);
   background-size: cover;
-  opacity: 1;
   transition: opacity 0.5s ease-in-out;
 }
 
@@ -19,9 +18,3 @@
   }
 }
 
-@media screen and (max-width:320px) {
-  .header__logo {
-    width: 142px;
-    height: 42px;
-  }
-}

@@ -1,20 +1,17 @@
 .footer__copyright {
-  color: #fff;
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  font-style: normal;
+  font-weight: normal;
   font-size: 14px;
-  text-decoration: none;
-  opacity: 1;
-  transition: opacity 0.3s ease-in-out;
+  line-height: 1.14;
+  color: #fff;
 }
 
-.footer__copyright:hover {
-  opacity: 0.5;
-}
-
-@media screen and (max-width:320px) {
+@media screen and (max-width: 767px) {
   .footer__copyright {
     margin-top: 48px;
-    width: 186px;
-    font-size: 14px;
-    line-height: 14px;
+    line-height: 1;
+    max-width: 230px;
   }
 }

@@ -1,14 +1,7 @@
 .header__lang-links {
-  list-style-type: none;
   padding: 0;
   margin: 0;
+  list-style: none;
   display: flex;
-  flex-direction: row;
-  cursor: pointer;
 }
 
-@media screen and (max-width:320px) {
-  .header__lang-links {
-    margin-top: 14px;
-  }
-}
