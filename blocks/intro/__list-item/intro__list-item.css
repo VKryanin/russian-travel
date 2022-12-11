@@ -1,6 +1,10 @@
-.intro__list-item {
-  font-family: 'Inter', sans-serif;
+.intro__list {
+  padding: 0;
+  margin: 0;
+  list-style: none;
+  max-width: 690px;
+  font-style: normal;
   font-weight: 700;
-  font-size: .75rem;
+  font-size: 12px;
   line-height: 18px;
 }
