@@ -1,44 +1,56 @@
 .cover__link {
   min-height: 740px;
-  color: #fff;
-  text-decoration: none;
-  box-sizing: border-box;
-  background-image: url(../../../images/trains.jpg);
-  background-position: center;
-  background-size: cover;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
+  max-width: 100%;
   position: relative;
-  padding: 20px;
-  z-index: 1;
-}
-
-.cover__link:before {
-  content: "";
-  background: #2A2C2F;
-  opacity: .3;
-  position: absolute;
-  top: 0;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  z-index: -1;
-  transition: opacity 0.5s ease-in-out;
+  z-index: 0;
+  background-image: url(../../../images/trains.jpg);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  gap: 32px;
+  text-decoration: none;
+  color: #fff;
+  transition: 0.5s linear;
 }
 
 .cover__link:hover::before {
-  opacity: .9;
+  opacity: 0.8;
 }
 
-@media screen and (max-width: 984px) {
+.cover__link::before {
+  background: #2a2c2f;
+  position: absolute;
+  opacity: 0.3;
+  content: "";
+  z-index: -1;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  top: 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .cover__link {
+    min-height: 640px;
+  }
+}
+
+@media screen and (max-width: 768px) {
   .cover__link {
     min-height: 480px;
   }
 }
 
-@media screen and (max-width: 568px) {
+@media screen and (max-width: 550px) {
+  .cover__link {
+    min-height: 380px;
+  }
+}
+
+@media screen and (max-width: 320px) {
   .cover__link {
     min-height: 200px;
   }
