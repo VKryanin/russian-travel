@@ -6,6 +6,7 @@
   line-height: 22px;
   font-weight: normal;
   font-style: normal;
+  text-align: center;
 }
 
 @media screen and (max-width: 767px) {
@@ -16,5 +17,10 @@
   }
 }
 
+@media screen and (max-width: 320px) {
+  .cover__subtitle {
+    padding: 0 16px;
+  }
+}
 
 
